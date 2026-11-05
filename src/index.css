@@ -9,10 +9,20 @@
   color: #ffffff;
   background-color: #ffffff;
 }
+/* paling penting untuk landing page */
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 100px;
+}
+/* ----- */
 
 .font-jakarta{
   font-family: "Plus Jakarta Sans";
 font-weight: 600;
+
 }
 
 .font-inter{
