@@ -1,4 +1,4 @@
-import fotoSaya from "../assets/Jas putih bg remove.png";
+import fotoSaya from "../assets/kemejaPutih.png";
 import placeHolder from "../assets/placeHold.png";
 import briefCase from "../assets/briefcase.png";
 import linkedIn from "../assets/linkedin.png";
